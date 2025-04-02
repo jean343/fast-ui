@@ -1,0 +1,13 @@
+{
+  "private": "true",
+  "name": "fast-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jean343/fast-ui.git",
+  "author": "Jean-Philippe Bergeron <Jean-Philippe.Bergeron@microfocus.com>",
+  "license": "MIT",
+  "workspaces": [
+    "solid.js",
+    "react.js"
+  ]
+}

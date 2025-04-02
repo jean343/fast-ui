@@ -1,0 +1,16 @@
+.main {
+  border: 1px solid black;
+  width: 750px;
+  height: 750px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.block {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
